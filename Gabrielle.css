@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=librebaskerville&display=swap");
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    font-family: 'source sans pro', serif;
+    background: rgb(248, 238, 221);
+    padding: 2rem;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+}
+
+main {
+    display: block;
+    width: 70em;
+    margin: auto;
+    max-width: 40%;
+    height: 70rem;
+} 
+ 
+
+
+.text {
+    background: whitesmoke;
+    height: 50%;
+    padding: 2rem;
+    padding-top: 2rem;
+    align-items: center;
+    text-align: left;
+    max-width: 100%;
+    margin: auto;
+}
+
+.perfume {
+    color: gray;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+}
+h1 {
+    color: rgb(64, 108, 64);
+    font-weight: bold;
+    font-size: 3em;
+    padding: auto;
+}
+p {
+    color: gray;
+    font-family: 'Montserrat';
+    max-width: 95%;
+    text-align: left;
+}
+.f1 {
+    color: rgb(64, 108, 64);
+    font-size: 2em;
+    font-weight: 900;
+}
+
+.f2 {
+    color: gray;
+    font-size: 0.5em;
+    text-decoration: line-through;
+    vertical-align: middle;
+}
+
+.cart {
+    background:  rgb(64, 108, 64);
+    color: aliceblue;
+    text-align: center;
+    letter-spacing: 0.12rem;
+    border: 0.5rem solid  rgb(64, 108, 64);
+    border-radius: 0.5rem;
+}
+
+img {
+    border: 1px transparent transparent;
+    border-radius: 1rem 1rem 0 0;
+    margin: auto;
+    width: 90em;
+    
+}
